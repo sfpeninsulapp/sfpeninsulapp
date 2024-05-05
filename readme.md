@@ -1,4 +1,4 @@
 San Francisco Peninsula People Power
-a non-partisan grass-roots civil rights organization
-Nonpartisan | Nonprofit | Grass-roots
-sfppp.org
+<br>a non-partisan grass-roots civil rights organization
+<br>Nonpartisan | Nonprofit | Grass-roots
+<br>sfppp.org
